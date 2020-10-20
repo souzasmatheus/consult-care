@@ -2803,14 +2803,14 @@ ul.actions.special {
   margin-left: 0;
 }
 
-ul.actions.special.whatsapp .button.large {
+ul.actions.special.custom .button.large {
   display: flex;
   align-items: center;
   width: 280px;
   justify-content: space-between;
 }
 
-ul.actions.special.whatsapp img {
+ul.actions.special.custom img {
   width: 32px;
 }
 
@@ -2906,12 +2906,12 @@ ul.actions.fit.stacked {
     margin-left: -0.5rem;
   }
 
-  ul.actions.special.whatsapp .button.large {
+  ul.actions.special.custom .button.large {
     width: 100%;
     justify-content: center;
   }
 
-  ul.actions.special.whatsapp img {
+  ul.actions.special.custom img {
     margin-left: 20px;
   }
 }
@@ -4005,7 +4005,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
 }
 
 #footer a {
-  color: #717981;
+  color: #212931;
   border-bottom-color: rgba(113, 121, 129, 0.5);
 }
 
@@ -4016,7 +4016,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
 
 #footer strong,
 #footer b {
-  color: #717981;
+  color: #212931;
 }
 
 #footer h1,
@@ -4025,7 +4025,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
 #footer h4,
 #footer h5,
 #footer h6 {
-  color: #717981;
+  color: #212931;
 }
 
 #footer blockquote {
