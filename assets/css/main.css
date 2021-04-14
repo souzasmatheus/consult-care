@@ -4013,7 +4013,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
 #footer h4,
 #footer h5,
 #footer h6 {
-  color: #212931;
+  color: #764293;
 }
 
 #footer blockquote {
@@ -4326,7 +4326,8 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
 #footer form label,
 #footer h3,
 #footer p {
-  font-size: 0.8rem;
+  font-size: 1.3em;
+  margin-right: 30px;
 }
 
 @media screen and (max-width: 980px) {
